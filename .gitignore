@@ -6,3 +6,4 @@
 #folder
 .ipynb_checkpoints
 */.ipynb_checkpoints/*.ipynb
+*/*/.ipynb_checkpoints/*.ipynb
