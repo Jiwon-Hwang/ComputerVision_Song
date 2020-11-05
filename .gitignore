@@ -1,3 +1,8 @@
+#file
 *.avi
 *.mp4
 *.json
+
+#folder
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*.ipynb
