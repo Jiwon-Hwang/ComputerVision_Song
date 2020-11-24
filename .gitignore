@@ -2,6 +2,7 @@
 *.avi
 *.mp4
 *.json
+*.docx
 
 #folder
 .ipynb_checkpoints
